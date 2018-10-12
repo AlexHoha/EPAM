@@ -1,2 +1,2 @@
 # EPAM
-spam projects
+epam projects
