@@ -21,11 +21,9 @@ namespace NET.W._2018.Hoha._01
 
             for (j = 0; j < n2; ++j)
                 R[j] = arr[m + 1 + j];
-
-
+            
             i = 0;
             j = 0;
-
             int k = l;
             while (i < n1 && j < n2)
             {
@@ -34,7 +32,6 @@ namespace NET.W._2018.Hoha._01
                     arr[k] = L[i];
                     i++;
                 }
-
                 else
                 {
                     arr[k] = R[j];
@@ -42,14 +39,12 @@ namespace NET.W._2018.Hoha._01
                 }
                 k++;
             }
-
             while (i < n1)
             {
                 arr[k] = L[i];
                 i++;
                 k++;
             }
-
             while (j < n2)
             {
                 arr[k] = R[j];
