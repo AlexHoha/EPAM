@@ -1,0 +1,11 @@
+/Users/alexhoha/Projects/NET.W.2018.Hoha.08/NET.W.2018.Hoha.08/bin/Debug/netcoreapp2.1/NET.W.2018.Hoha.08.deps.json
+/Users/alexhoha/Projects/NET.W.2018.Hoha.08/NET.W.2018.Hoha.08/bin/Debug/netcoreapp2.1/NET.W.2018.Hoha.08.runtimeconfig.json
+/Users/alexhoha/Projects/NET.W.2018.Hoha.08/NET.W.2018.Hoha.08/bin/Debug/netcoreapp2.1/NET.W.2018.Hoha.08.runtimeconfig.dev.json
+/Users/alexhoha/Projects/NET.W.2018.Hoha.08/NET.W.2018.Hoha.08/bin/Debug/netcoreapp2.1/NET.W.2018.Hoha.08.dll
+/Users/alexhoha/Projects/NET.W.2018.Hoha.08/NET.W.2018.Hoha.08/bin/Debug/netcoreapp2.1/NET.W.2018.Hoha.08.pdb
+/Users/alexhoha/Projects/NET.W.2018.Hoha.08/NET.W.2018.Hoha.08/obj/Debug/netcoreapp2.1/NET.W.2018.Hoha.08.csprojAssemblyReference.cache
+/Users/alexhoha/Projects/NET.W.2018.Hoha.08/NET.W.2018.Hoha.08/obj/Debug/netcoreapp2.1/NET.W.2018.Hoha.08.csproj.CoreCompileInputs.cache
+/Users/alexhoha/Projects/NET.W.2018.Hoha.08/NET.W.2018.Hoha.08/obj/Debug/netcoreapp2.1/NET.W.2018.Hoha.08.AssemblyInfoInputs.cache
+/Users/alexhoha/Projects/NET.W.2018.Hoha.08/NET.W.2018.Hoha.08/obj/Debug/netcoreapp2.1/NET.W.2018.Hoha.08.AssemblyInfo.cs
+/Users/alexhoha/Projects/NET.W.2018.Hoha.08/NET.W.2018.Hoha.08/obj/Debug/netcoreapp2.1/NET.W.2018.Hoha.08.dll
+/Users/alexhoha/Projects/NET.W.2018.Hoha.08/NET.W.2018.Hoha.08/obj/Debug/netcoreapp2.1/NET.W.2018.Hoha.08.pdb
