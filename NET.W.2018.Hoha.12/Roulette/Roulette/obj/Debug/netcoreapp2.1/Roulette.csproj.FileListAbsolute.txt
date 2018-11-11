@@ -1,0 +1,11 @@
+/Users/alexhoha/Projects/Roulette/Roulette/bin/Debug/netcoreapp2.1/Roulette.deps.json
+/Users/alexhoha/Projects/Roulette/Roulette/bin/Debug/netcoreapp2.1/Roulette.runtimeconfig.json
+/Users/alexhoha/Projects/Roulette/Roulette/bin/Debug/netcoreapp2.1/Roulette.runtimeconfig.dev.json
+/Users/alexhoha/Projects/Roulette/Roulette/bin/Debug/netcoreapp2.1/Roulette.dll
+/Users/alexhoha/Projects/Roulette/Roulette/bin/Debug/netcoreapp2.1/Roulette.pdb
+/Users/alexhoha/Projects/Roulette/Roulette/obj/Debug/netcoreapp2.1/Roulette.csprojAssemblyReference.cache
+/Users/alexhoha/Projects/Roulette/Roulette/obj/Debug/netcoreapp2.1/Roulette.csproj.CoreCompileInputs.cache
+/Users/alexhoha/Projects/Roulette/Roulette/obj/Debug/netcoreapp2.1/Roulette.AssemblyInfoInputs.cache
+/Users/alexhoha/Projects/Roulette/Roulette/obj/Debug/netcoreapp2.1/Roulette.AssemblyInfo.cs
+/Users/alexhoha/Projects/Roulette/Roulette/obj/Debug/netcoreapp2.1/Roulette.dll
+/Users/alexhoha/Projects/Roulette/Roulette/obj/Debug/netcoreapp2.1/Roulette.pdb
