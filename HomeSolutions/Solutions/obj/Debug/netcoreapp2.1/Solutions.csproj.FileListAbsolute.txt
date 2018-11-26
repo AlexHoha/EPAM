@@ -1,0 +1,11 @@
+/Users/alexhoha/Projects/Solutions/Solutions/bin/Debug/netcoreapp2.1/Solutions.deps.json
+/Users/alexhoha/Projects/Solutions/Solutions/bin/Debug/netcoreapp2.1/Solutions.runtimeconfig.json
+/Users/alexhoha/Projects/Solutions/Solutions/bin/Debug/netcoreapp2.1/Solutions.runtimeconfig.dev.json
+/Users/alexhoha/Projects/Solutions/Solutions/bin/Debug/netcoreapp2.1/Solutions.dll
+/Users/alexhoha/Projects/Solutions/Solutions/bin/Debug/netcoreapp2.1/Solutions.pdb
+/Users/alexhoha/Projects/Solutions/Solutions/obj/Debug/netcoreapp2.1/Solutions.csprojAssemblyReference.cache
+/Users/alexhoha/Projects/Solutions/Solutions/obj/Debug/netcoreapp2.1/Solutions.csproj.CoreCompileInputs.cache
+/Users/alexhoha/Projects/Solutions/Solutions/obj/Debug/netcoreapp2.1/Solutions.AssemblyInfoInputs.cache
+/Users/alexhoha/Projects/Solutions/Solutions/obj/Debug/netcoreapp2.1/Solutions.AssemblyInfo.cs
+/Users/alexhoha/Projects/Solutions/Solutions/obj/Debug/netcoreapp2.1/Solutions.dll
+/Users/alexhoha/Projects/Solutions/Solutions/obj/Debug/netcoreapp2.1/Solutions.pdb

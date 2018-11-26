@@ -1,0 +1,5 @@
+/Users/alexhoha/Downloads/ExtTraining.Autumn.2018.3-master/No6/bin/Debug/No6.dll
+/Users/alexhoha/Downloads/ExtTraining.Autumn.2018.3-master/No6/bin/Debug/No6.pdb
+/Users/alexhoha/Downloads/ExtTraining.Autumn.2018.3-master/No6/obj/Debug/No6.Solution.csproj.CoreCompileInputs.cache
+/Users/alexhoha/Downloads/ExtTraining.Autumn.2018.3-master/No6/obj/Debug/No6.dll
+/Users/alexhoha/Downloads/ExtTraining.Autumn.2018.3-master/No6/obj/Debug/No6.pdb

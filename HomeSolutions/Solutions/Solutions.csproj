@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="No3\Main.cs" />
+    <Compile Remove="No3\Properties\AssemblyInfo.cs" />
+    <Compile Remove="No2\Properties\AssemblyInfo.cs" />
+    <Compile Remove="No6\Properties\AssemblyInfo.cs" />
+    <Compile Remove="No6\Main.cs" />
+    <Compile Remove="No6\Program.cs" />
+    <Compile Remove="No5\Properties\AssemblyInfo.cs" />
+    <Compile Remove="No4\Properties\AssemblyInfo.cs" />
+    <Compile Remove="No1\Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="No2.Solution\Properties\" />
+    <Folder Include="No6.Solution\Properties\" />
+    <Folder Include="No5.Solution\Properties\" />
+    <Folder Include="No4.Solution\Properties\" />
+    <Folder Include="No1.Solution\Properties\" />
+  </ItemGroup>
+</Project>
